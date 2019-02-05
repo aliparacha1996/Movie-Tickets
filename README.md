@@ -1,5 +1,5 @@
 # Movie Tickets
-An application for the purchase of movie ticekts.
+An application for the purchase of movie tickets.
 
 The application uses WPF and .NET frame work tools. It follows the Model, ViewModel and View structure to make the front end and back end components independent.
 
